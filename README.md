@@ -7,7 +7,7 @@ Yuki Arase and Junichi Tsujii. 2019. Transfer Fine-Tuning: A BERT Case Study. i
 When you have any publication using our models, please cite the paper above.
 
 ## Models
-Please download the trained models at: 
+Please download the trained models at [Zenodo](http://doi.org/10.5281/zenodo.3524708)
 
 ## Usage
 ### Pre-requisit
