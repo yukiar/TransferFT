@@ -14,7 +14,7 @@ Please download the trained models at:
 Our training codes depends on pytorch-pretrained-bert (former version of [transformers](https://github.com/huggingface/transformers)).
 Please first install pytorch and pytorch-pretrained-bert. 
 
-Note: We have only tested on pytorch-pretrained-bert. Our models should work on transformers without any problem.
+Note: Our models should work on transformers aw wll without any problem, but we have not tested yet.
 
 ### Load models
 Once you have pytorch and pytorch-pretrained-bert, our models can be used in the same manner with BERT's pre-trained models. 
