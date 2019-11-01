@@ -17,8 +17,8 @@ Please first install pytorch and pytorch-pretrained-bert.
 Note: Our models should work on transformers as well without any problem, but we have not tested yet.
 
 ### Load models
-Once you have pytorch and pytorch-pretrained-bert, our models can be used in the same manner with BERT's pre-trained models. 
-Just loard our modesl like these
+Once you have pytorch and pytorch-pretrained-bert installed, our models can be used in the same manner with BERT's pre-trained models. 
+Just load our models like:
 ```python
 self.bert = BertModel.from_pretrained('bert-base-uncased')
 self.load_state_dict(torch.load('path-to-downloaded-model'))
