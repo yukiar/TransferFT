@@ -1,5 +1,5 @@
 # Transfer fine-tuned BERT models by paraphrases
-This repository provides transfer fine-tuned BERT models by paraphrases, which show strong the performance in sentence pair modeling tasks, e.g., paraphrase identification, semantic textual similarity aseessment, and natural language inference.
+This repository provides transfer fine-tuned BERT models by paraphrases, which show strong performance in sentence pair modeling tasks, e.g., paraphrase identification, semantic textual similarity aseessment, and natural language inference.
 For details of model training, please refer to the following paper.
 
 Yuki Arase and Junichi Tsujii. 2019. Transfer Fine-Tuning: A BERT Case Study. in Proc. of Conference on Empirical Methods in Natural Language Processing (EMNLP 2019). [paper at arXiv](https://arxiv.org/abs/1909.00931)
