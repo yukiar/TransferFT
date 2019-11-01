@@ -11,7 +11,7 @@ Please download the trained models at [Zenodo](http://doi.org/10.5281/zenodo.352
 
 ## Usage
 ### Pre-requisit
-Our training codes depends on [pytorch-pretrained-bert](https://github.com/huggingface/transformers/releases/tag/v0.6.2) (former version of [transformers](https://github.com/huggingface/transformers)).
+Our training codes depend on [pytorch-pretrained-bert](https://github.com/huggingface/transformers/releases/tag/v0.6.2) (former version of [transformers](https://github.com/huggingface/transformers)).
 Please first install pytorch and pytorch-pretrained-bert. 
 
 Note: Our models should work on transformers as well without any problem, but we have not tested yet.
